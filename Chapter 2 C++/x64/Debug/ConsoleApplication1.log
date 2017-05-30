@@ -1,0 +1,4 @@
+﻿E:\C++\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Chapter 1 C++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chapter2Problems.cpp
+  ConsoleApplication1.vcxproj -> E:\Visual Studio 2017\Projects\Chapter 2 C++\x64\Debug\Chapter 2 C++.exe
+  ConsoleApplication1.vcxproj -> E:\Visual Studio 2017\Projects\Chapter 2 C++\x64\Debug\Chapter 2 C++.pdb (Partial PDB)
